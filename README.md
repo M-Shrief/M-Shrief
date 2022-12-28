@@ -8,9 +8,9 @@ the main sample of my learning will be "Adeeb آديب", concerned on arabic lit
 It assumes a business model to order a specific piece of litereture to be printed and delivered to customer, with the ability for the customer to follow up the proccess.
 
 ##There's 2 samples of this project (till now):
-- "Adeeb آديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End").
+- "Adeeb آديب" developed with VueJS, Pinia and vue-router, NodeJS/ExpressJS and MongoDB.
 
-- "Adeeb آديب" developed with VueJS, PHP/Laravel and mySQL
+- "Adeeb آديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End")
 
 ### Coming up:
 - "Adeeb آديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
