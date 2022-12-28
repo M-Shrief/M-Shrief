@@ -9,6 +9,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 
 ##There's 2 samples of this project (till now):
 - "Adeeb آديب" developed with VueJS, NodeJS/ExpressJS and MongoDB.
+- - front end
 - "Adeeb آديب" developed with VueJS, PHP/Laravel and mySQL
 
 ### Coming up:
