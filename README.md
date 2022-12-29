@@ -4,7 +4,7 @@ This conidered as a portofolio to Document and upload my new Projects/Models of 
 
 # Main project - "Adeeb آديب"
 
-the main sample of my learning will be ["Adeeb آديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Adeeb's%20preview%2029-12.mkv "check a preview here"), concerned on arabic litereture: poetry and prose.
+the main sample of my learning will be ["Adeeb آديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Adeeb's%20preview%2029-12.mkv "check a preview here to download"), concerned on arabic litereture: poetry and prose.
 It assumes a business model to order a specific piece of litereture to be printed and delivered to customer, with the ability for the customer to follow up the proccess.
 
 ## There's 2 samples of this project (till now):
