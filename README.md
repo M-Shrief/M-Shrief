@@ -44,20 +44,20 @@ It assumes a business model to order a specific piece of litereture to be printe
 
 
 ### Books
-•	Code Complete (Reached and finished Part 4)
-•	Working Effectively with Legacy code (reached and finished part2, CH9)
-•	Introduction to Algorithms (delayed)
-•	Patterns of Enterprise Application Architecture (reached and finished the first 40 pages)
-•	Grokking Algorithms
-•	Designing Data Intensive Application (reached and finished part1)
-•	JavaScript Enlightenment
-•	Object-Oriented JavaScript by Stoyan Stefanov 
-•	Clean Code, finished:
-  o	Intro
-  o	Meaningful names
-  o	Functions
-  o	Comments
-  o	Objects and data structures
-  o	Unit Tests
-  o	Error Handling (around 10pages)
-  o	Boundaries (around 8 pages) 
+- Code Complete (Reached and finished Part 4)
+- Working Effectively with Legacy code (reached and finished part2, CH9)
+- Introduction to Algorithms (delayed)
+- Patterns of Enterprise Application Architecture (reached and finished the first 40 pages)
+- Grokking Algorithms
+- Designing Data Intensive Application (reached and finished part1)
+- JavaScript Enlightenment
+- Object-Oriented JavaScript by Stoyan Stefanov 
+- Clean Code, finished:
+  - Intro
+  - Meaningful names
+  - Functions
+  - Comments
+  - Objects and data structures
+  - Unit Tests
+  - Error Handling (around 10pages)
+  - Boundaries (around 8 pages) 
