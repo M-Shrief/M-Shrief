@@ -14,6 +14,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 
 ### Coming up:
 - "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
+- Dashboard for "Adeeb أديب"
 
 ## Current skills:
 - JavaScript (ES5, ES6)
@@ -30,3 +31,33 @@ It assumes a business model to order a specific piece of litereture to be printe
 - Unit/Component/E2E Testing using Cypress and Jest
 - Basic knowledge about Architecture and Design
 - Docker
+
+# Learning Journey
+- CS50's Introduction to Programming with Python (CS50P) 2022
+
+### Databases
+- CMU, Intro to Database Systems(2022): **reached lecture #08**
+
+### Data Structures and Algorithms (DSA)
+- [Programiz - DSA](https://www.programiz.com/dsa): **reched Tree Based DSA II --> Red Black Tree**
+- CS50 lectures about [Arrays, Algorithms, Data Structures
+
+
+### Books
+•	Code Complete (Reached and finished Part 4)
+•	Working Effectively with Legacy code (reached and finished part2, CH9)
+•	Introduction to Algorithms (delayed)
+•	Patterns of Enterprise Application Architecture (reached and finished the first 40 pages)
+•	Grokking Algorithms
+•	Designing Data Intensive Application (reached and finished part1)
+•	JavaScript Enlightenment
+•	Object-Oriented JavaScript by Stoyan Stefanov 
+•	Clean Code, finished:
+  o	Intro
+  o	Meaningful names
+  o	Functions
+  o	Comments
+  o	Objects and data structures
+  o	Unit Tests
+  o	Error Handling (around 10pages)
+  o	Boundaries (around 8 pages) 
