@@ -36,7 +36,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - CS50's Introduction to Programming with Python (CS50P) 2022
 
 ### Databases
-- CMU, Intro to Database Systems(2022): **reached lecture #08**
+- CMU, Intro to Database Systems(2022): **reached and finished lecture #08**
 
 ### Data Structures and Algorithms (DSA)
 - [Programiz - DSA](https://www.programiz.com/dsa): **reched Tree Based DSA II --> Red Black Tree**
