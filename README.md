@@ -39,7 +39,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - CMU, Intro to Database Systems(2022): **reached and finished lecture #12**
 
 ### Data Structures and Algorithms (DSA)
-- [Programiz - DSA](https://www.programiz.com/dsa): **reched Tree Based DSA II --> Strongly Connected Components**
+- [Programiz - DSA](https://www.programiz.com/dsa): **reched Graph based DSA --> Strongly Connected Components**
 - CS50 lectures about [Arrays, Algorithms, Data Structures
 
 
