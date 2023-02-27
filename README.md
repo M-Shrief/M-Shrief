@@ -13,10 +13,12 @@ It assumes a business model to order a specific piece of litereture to be printe
 - "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End"), with component testing using Cypress.
 
 ### Coming up:
-- Feature: Partner's functionality to make big orders
-- Feature: Better way to follow up orders.
+- Adding B2B functionality for our Partners:
+  - Ordering Prints in Bulks in an easy and clear way.
+  - adding Authentication.
+  - following and analyze past and present orders.
 - Dashboard for "Adeeb أديب"
-- Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
+- Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS maybe going to use Nestjs.
 ## Current skills:
 - JavaScript (ES5, ES6)
 - TypeScript
