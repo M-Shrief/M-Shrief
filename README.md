@@ -7,18 +7,21 @@ This conidered as a portofolio to Document and upload my new Projects/Models of 
 the main sample of my learning will be ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Overview-%2015th%20Jan.mp4 "check a preview here to download"), concerned on arabic litereture: poetry and prose.
 It assumes a business model to order a specific piece of litereture to be printed and delivered to customer, with the ability for the customer to follow up the process.
 
-## There's 2 samples of this project (till now):
+## Different samples of this project (till now):
 - "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express "github repository for the Front-End"), [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs "github repository for the Back-End"), with component testing using Cypress.
 
 - "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End"), with component testing using Cypress.
 
+- "Adeeb أديب" developed with [VueJS, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd").
 ### Coming up:
 - Adding B2B functionality for our Partners:
   - Ordering Prints in Bulks in an easy and clear way.
   - adding Authentication.
   - following and analyze past and present orders.
 - Dashboard for "Adeeb أديب"
-- Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS maybe going to use Nestjs.
+- Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
+  - [VueJS, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd") (**Done**)
+  - BackEnd API with TypeScript maybe going to use Nestjs? (on Progress)
 ## Current skills:
 - JavaScript (ES5, ES6)
 - TypeScript
