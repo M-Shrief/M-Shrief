@@ -30,7 +30,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - CSS, SCSS and TailwindCSS
 - I'd an experience deploying with Docker
 ### Working to add:
-- solid ground on algorithms
+- solid ground on Algorithms and Data Structures
 - Unit/Component/E2E Testing using Cypress and Jest
 - Basic knowledge about Architecture and Design
 - Docker
