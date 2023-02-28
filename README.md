@@ -5,7 +5,7 @@ This conidered as a portofolio to Document and upload my new Projects/Models of 
 # Main project - "Adeeb أديب"
 
 the main sample of my learning will be ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Overview-%2015th%20Jan.mp4 "check a preview here to download"), concerned on arabic litereture: poetry and prose.
-It assumes a business model to order a specific piece of litereture to be printed and delivered to customer, with the ability for the customer to follow up the proccess.
+It assumes a business model to order a specific piece of litereture to be printed and delivered to customer, with the ability for the customer to follow up the process.
 
 ## There's 2 samples of this project (till now):
 - "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express "github repository for the Front-End"), [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs "github repository for the Back-End"), with component testing using Cypress.
