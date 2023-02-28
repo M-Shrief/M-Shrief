@@ -21,7 +21,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - Dashboard for "Adeeb أديب"
 - Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
   - [VueJS, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd") (**Done**)
-  - BackEnd API with TypeScript maybe going to use Nestjs? (on Progress)
+  - BackEnd API with TypeScript - maybe going to use Nestjs? - going to use GraphQL and PostgreSQL. (on Progress)
 ## Current skills:
 - JavaScript (ES5, ES6)
 - TypeScript
