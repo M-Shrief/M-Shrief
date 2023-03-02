@@ -1,6 +1,6 @@
 # A new phase
 
-This conidered as a portofolio to Document and upload my new Projects/Models of my learning in a more intensive & organised form. I'm aiming to Show my learning process, workflow and on. Hoping to intensify my owned knowledge and add to it as needed.
+This conidered as a portofolio to document and upload my new projects (models of my learning) in a more intensive & organised form. I'm aiming to Show my learning process, workflow and on. Hoping to intensify my owned knowledge and add to it as needed.
 
 # Main project - "Adeeb أديب"
 
@@ -21,7 +21,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - Dashboard for "Adeeb أديب"
 - Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
   - [VueJS, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd") (**Done**)
-  - BackEnd API with TypeScript - maybe going to use Nestjs? - going to use GraphQL and PostgreSQL. (on Progress)
+  - BackEnd API with TypeScript - maybe going to use Nestjs? maybe GraphQL? and PostgreSQL?. (on Progress)
 ## Current skills:
 - JavaScript (ES5, ES6)
 - TypeScript
@@ -42,7 +42,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - CS50's Introduction to Programming with Python (CS50P) 2022 
 
 ### Databases
-- CMU, Intro to Database Systems(2022): **reached and finished lecture #23**
+- CMU, Intro to Database Systems(2022): **reached and finished lecture #25**
 
 ### Data Structures and Algorithms (DSA)
 - [Programiz - DSA](https://www.programiz.com/dsa): **reached Sorting and Searching Algorithms**
