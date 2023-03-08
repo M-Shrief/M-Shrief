@@ -50,6 +50,11 @@ It assumes a business model to order a specific piece of litereture to be printe
 - CS50 lectures about [Arrays, Algorithms, Data Structures
 
 
+### not a diary
+- Used Docker to host my Databases (MongoDB - MySQL), it drained the machine too much. can be fixed if I:
+  - moved to Manjaro linux
+  - changed to SSD.
+
 ### Books
 - Code Complete (Reached and finished Part 4)
 - Working Effectively with Legacy code (reached and finished part2, CH9)
