@@ -30,7 +30,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - PHP
 - Laravel
 - MySQL and MongoDB
-- CSS, SCSS and TailwindCSS
+- CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't really)
 - I'd an experience deploying with Docker
 ### Working to add:
 - solid ground on Algorithms and Data Structures
