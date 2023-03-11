@@ -43,7 +43,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 
 ### Databases
 - CMU, Intro to Database Systems(2022) (finished)
-- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished Data Modeling - Tables and tubles)
+- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished Data Modeling)
 - Deep dive into PostgreSQL
 
 ### Data Structures and Algorithms (DSA)
