@@ -12,7 +12,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 
 - "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End"), with component testing using Cypress.
 
-- All in TypeScript, "Adeeb أديب" developed with [Vue, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd"), [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS "github repository for the BackEnd")
+- All in TypeScript, "Adeeb أديب" developed with [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd"), [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS "github repository for the BackEnd")
 
 ### Coming up:
 - Adding B2B functionality for our Partners:
