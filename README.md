@@ -12,16 +12,15 @@ It assumes a business model to order a specific piece of litereture to be printe
 
 - "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End"), with component testing using Cypress.
 
-- "Adeeb أديب" developed with [VueJS, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd").
+- All in TypeScript, "Adeeb أديب" developed with [Vue, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd"), [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS "github repository for the BackEnd")
+
 ### Coming up:
 - Adding B2B functionality for our Partners:
   - Ordering Prints in Bulks in an easy and clear way.
   - adding Authentication.
   - following and analyze past and present orders.
 - Dashboard for "Adeeb أديب"
-- Another Version: "Adeeb أديب", a TypeScripted version of VueJS, NodeJS/ExpressJS.
-  - [VueJS, Pinia and vue-router with TypeScript](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd") (**Done**)
-  - BackEnd API with TypeScript - maybe going to use Nestjs? maybe GraphQL? and PostgreSQL?. (on Progress)
+
 ## Current skills:
 - JavaScript (ES5, ES6)
 - TypeScript
@@ -30,7 +29,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - PHP
 - Laravel
 - MySQL and MongoDB
-- CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't really)
+- CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't really use it)
 - I'd an experience deploying with Docker
 ### Working to add:
 - solid ground on Algorithms and Data Structures
