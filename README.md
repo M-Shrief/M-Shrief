@@ -1,20 +1,37 @@
 # A new phase
 
-This conidered as a portofolio to document and upload my new projects (models of my learning) in a more intensive & organised form. I'm aiming to Show my learning process, workflow and on. Hoping to intensify my owned knowledge and add to it as needed.
+This conidered as a portofolio to document and upload my new projects (models of
+my learning) in a more intensive & organised form. I'm aiming to Show my
+learning process, workflow and on. Hoping to intensify my owned knowledge and
+add to it as needed.
+[You can see my Resume here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume').
 
 # Main project - "Adeeb أديب"
 
-the main sample of my learning will be ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Overview-%2015th%20Jan.mp4 "check a preview here to download"), concerned on arabic litereture: poetry and prose.
-It assumes a business model to order a specific piece of litereture to be printed and delivered to customer, with the ability for the customer to follow up the process.
+the main sample of my learning will be
+["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Overview-%2015th%20Jan.mp4 'check a preview here to download'),
+concerned on arabic litereture: poetry and prose. It assumes a business model to
+order a specific piece of litereture to be printed and delivered to customer,
+with the ability for the customer to follow up the process.
 
 ## Different samples of this project (till now):
-- "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express "github repository for the Front-End"), [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs "github repository for the Back-End"), with component testing using Cypress.
 
-- "Adeeb أديب" developed with [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel "github repository for the Front-End"), [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel "github repository for the Back-End"), with component testing using Cypress.
+- "Adeeb أديب" developed with
+  [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express 'github repository for the Front-End'),
+  [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs 'github repository for the Back-End'),
+  with component testing using Cypress.
 
-- All in TypeScript, "Adeeb أديب" developed with [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS "github repository for the FrontEnd"), [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS "github repository for the BackEnd")
+- "Adeeb أديب" developed with
+  [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel 'github repository for the Front-End'),
+  [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel 'github repository for the Back-End'),
+  with component testing using Cypress.
+
+- All in TypeScript, "Adeeb أديب" developed with
+  [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
+  [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS 'github repository for the BackEnd')
 
 ### Coming up:
+
 - Adding B2B functionality for our Partners:
   - Ordering Prints in Bulks in an easy and clear way.
   - adding Authentication.
@@ -22,6 +39,7 @@ It assumes a business model to order a specific piece of litereture to be printe
 - Dashboard for "Adeeb أديب"
 
 ## Current skills:
+
 - JavaScript (ES5, ES6)
 - TypeScript
 - VueJS + (Pinia and vue-router)
@@ -29,41 +47,52 @@ It assumes a business model to order a specific piece of litereture to be printe
 - PHP
 - Laravel
 - MySQL and MongoDB
-- CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't really use it)
+- CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't
+  really use it)
 - I'd an experience deploying with Docker
+
 ### Working to add:
+
 - solid ground on Algorithms and Data Structures
 - Unit/Component/E2E Testing using Cypress and Jest
 - Basic knowledge about Architecture and Design
 - Docker
 
 # Learning Journey
-- CS50's Introduction to Programming with Python (CS50P) 2022 
+
+- CS50's Introduction to Programming with Python (CS50P) 2022
 
 ### Databases
+
 - CMU, Intro to Database Systems(2022) (finished)
-- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached "Strategies for deploying database migrations")
+- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached "Strategies
+  for deploying database migrations")
 - Deep dive into PostgreSQL
 
 ### Data Structures and Algorithms (DSA)
-- [Programiz - DSA](https://www.programiz.com/dsa): **reached Sorting and Searching Algorithms**
+
+- [Programiz - DSA](https://www.programiz.com/dsa): **reached Sorting and
+  Searching Algorithms**
 - CS50 lectures about [Arrays, Algorithms, Data Structures
 
-
 ### not a diary
-- Used Docker to host my Databases (MongoDB - MySQL), it drained the machine too much. can be fixed if I:
+
+- Used Docker to host my Databases (MongoDB - MySQL), it drained the machine too
+  much. can be fixed if I:
   - moved to Manjaro linux
   - changed to SSD.
 
 ### Books
+
 - Code Complete (Reached and finished Part 4)
 - Working Effectively with Legacy code (reached and finished part2, CH9)
 - Introduction to Algorithms (delayed)
-- Patterns of Enterprise Application Architecture (reached and finished the first 40 pages)
+- Patterns of Enterprise Application Architecture (reached and finished the
+  first 40 pages)
 - Grokking Algorithms
 - Designing Data Intensive Application (reached and finished part1)
 - JavaScript Enlightenment
-- Object-Oriented JavaScript by Stoyan Stefanov 
+- Object-Oriented JavaScript by Stoyan Stefanov
 - Clean Code, finished:
   - Intro
   - Meaningful names
@@ -72,4 +101,4 @@ It assumes a business model to order a specific piece of litereture to be printe
   - Objects and data structures
   - Unit Tests
   - Error Handling (around 10pages)
-  - Boundaries (around 8 pages) 
+  - Boundaries (around 8 pages)
