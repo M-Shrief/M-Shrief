@@ -65,15 +65,15 @@ with the ability for the customer to follow up the process.
 ### Databases
 
 - CMU, Intro to Database Systems(2022) (finished)
-- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached "Strategies
-  for deploying database migrations")
+- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
+  "Data Types")
 - Deep dive into PostgreSQL
 
 ### Data Structures and Algorithms (DSA)
 
 - [Programiz - DSA](https://www.programiz.com/dsa): **reached Sorting and
   Searching Algorithms**
-- CS50 lectures about [Arrays, Algorithms, Data Structures
+- CS50 lectures about [Arrays, Algorithms, Data Structures]
 
 ### not a diary
 
