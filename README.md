@@ -61,6 +61,8 @@ with the ability for the customer to follow up the process.
 # Learning Journey
 
 - CS50's Introduction to Programming with Python (CS50P) 2022
+- IBM, "DevOps, Cloud, and Agile Foundations" Specialization:
+  - Introduction to DevOps (Finished week 2)
 
 ### Databases
 
