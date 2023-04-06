@@ -9,7 +9,7 @@ add to it as needed.
 # Main project - "Adeeb أديب"
 
 the main sample of my learning will be
-["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/blob/main/Overview-%2015th%20Jan.mp4 'check a preview here to download'),
+["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a preview here to download'),
 concerned on arabic litereture: poetry and prose. It assumes a business model to
 order a specific piece of litereture to be printed and delivered to customer,
 with the ability for the customer to follow up the process.
