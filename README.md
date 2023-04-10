@@ -1,8 +1,6 @@
-# A new phase
-
-This conidered as a portofolio to document and upload my new projects (models of
-my learning) in a more intensive & organised form. I'm aiming to Show my
-learning process, workflow and on. Hoping to intensify my owned knowledge and
+This can be considered as a portfolio to document and upload my new projects
+(models of my learning) in a more intensive & organised form. I'm aiming to Show
+my learning process, workflow and on. Hoping to intensify my owned knowledge and
 add to it as needed.
 [You can see my Resume here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume').
 
@@ -10,8 +8,8 @@ add to it as needed.
 
 the main sample of my learning will be
 ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a preview here to download'),
-concerned on arabic litereture: poetry and prose. It assumes a business model to
-order a specific piece of litereture to be printed and delivered to customer,
+concerned on arabic literature: poetry and prose. It assumes a business model to
+order a specific piece of literature to be printed and delivered to customer,
 with the ability for the customer to follow up the process.
 
 ## Different samples of this project (till now):
