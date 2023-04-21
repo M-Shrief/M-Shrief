@@ -29,13 +29,7 @@ add to it as needed.
     [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
     [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS 'github repository for the BackEnd')
 
-### Coming up:
-
-- Adding B2B functionality for our Partners:
-  - Ordering Prints in Bulks in an easy and clear way.
-  - adding Authentication.
-  - following and analyze past and present orders.
-- Dashboard for "Adeeb أديب"
+  -_Coming up_: Dashboard for "Adeeb أديب"
 
 ## Current skills:
 
