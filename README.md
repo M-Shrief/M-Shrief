@@ -21,13 +21,11 @@ add to it as needed.
 
   - "Adeeb أديب" developed with
     [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express 'github repository for the Front-End'),
-    [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs 'github repository for the Back-End'),
-    with component testing using Cypress.
+    [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs 'github repository for the Back-End').
 
   - "Adeeb أديب" developed with
     [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel 'github repository for the Front-End'),
-    [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel 'github repository for the Back-End'),
-    with component testing using Cypress.
+    [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel 'github repository for the Back-End').
 
   - _Coming up_: Dashboard for "Adeeb أديب"
 
