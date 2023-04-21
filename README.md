@@ -15,6 +15,10 @@ add to it as needed.
   customer, with the ability for the customer to follow up the process.
   Different samples of this project (till now):
 
+  - All in TypeScript, "Adeeb أديب" developed with
+    [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
+    [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS 'github repository for the BackEnd')
+
   - "Adeeb أديب" developed with
     [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express 'github repository for the Front-End'),
     [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs 'github repository for the Back-End'),
@@ -24,10 +28,6 @@ add to it as needed.
     [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel 'github repository for the Front-End'),
     [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel 'github repository for the Back-End'),
     with component testing using Cypress.
-
-  - All in TypeScript, "Adeeb أديب" developed with
-    [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
-    [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS 'github repository for the BackEnd')
 
   - _Coming up_: Dashboard for "Adeeb أديب"
 
