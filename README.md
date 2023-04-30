@@ -4,30 +4,18 @@ my learning process, workflow and on. Hoping to intensify my owned knowledge and
 add to it as needed.
 [You can see my Resume here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume').
 
-## Projects (LIFO sorted)
+## Projects
 
-- [Cake_Pals](https://github.com/M-Shrief/Cake_Pals 'github repository'), REST
-  API, Developed with Nodejs/Expressjs and TypeScript with MongoDB.
-
-- ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a preview here to download'),
+- ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a video preview here'),
   concerned on arabic literature: poetry and prose. It assumes a business model
   to order a specific piece of literature to be printed and delivered to
   customer, with the ability for the customer to follow up the process.
-  Different samples of this project (till now):
+  Different samples of this project (till now): All in TypeScript, "Adeeb أديب"
+  developed with
+  [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
+  [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
 
-  - All in TypeScript, "Adeeb أديب" developed with
-    [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
-    [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_NodeTS 'github repository for the BackEnd')
-
-  - "Adeeb أديب" developed with
-    [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Node-Express 'github repository for the Front-End'),
-    [NodeJS/ExpressJS and MongoDB](https://github.com/M-Shrief/Adeeb_NodeJs 'github repository for the Back-End').
-
-  - "Adeeb أديب" developed with
-    [VueJS, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_VueJS_Laravel 'github repository for the Front-End'),
-    [PHP/Laravel and mySQL](https://github.com/M-Shrief/Adeeb_Laravel 'github repository for the Back-End').
-
-  - _Coming up_: Dashboard for "Adeeb أديب"
+  - _Coming up_: Dashboard for "Adeeb أديب" (not neccessary, but maybe)
 
 ## Current skills:
 
@@ -35,11 +23,9 @@ add to it as needed.
 - TypeScript
 - VueJS + (Pinia and vue-router)
 - NodeJS and Express.JS
-- PHP
-- Laravel
-- MySQL and MongoDB
+- Used MySQL and MongoDB.
 - CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't
-  really use it)
+  really like to use it)
 - I'd an experience deploying with Docker
 
 ### Working to add:
@@ -54,7 +40,7 @@ add to it as needed.
 - CS50's Introduction to Programming with Python "CS50P" 2022 (finished)
 - [IBM, "DevOps, Cloud, and Agile Foundations" Specialization](https://www.coursera.org/specializations/devops-cloud-and-agile-foundations#courses 'Check on Coursera'):
   - Introduction to DevOps (Finished)
-  - Introduction to Cloud Computing (Coming up)
+  - Introduction to Cloud Computing (Finished)
   - Introduction to Agile Development and Scrum (Coming up)
 
 ### Databases
@@ -62,7 +48,8 @@ add to it as needed.
 - CMU, Intro to Database Systems(2022) (finished)
 - [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
   "Data Types")
-- Deep dive into PostgreSQL
+- Deep dive into PostgreSQL (had very basic step, more to come).
+- Redis (coming up)
 
 ### Data Structures and Algorithms (DSA)
 
