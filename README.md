@@ -48,7 +48,7 @@ add to it as needed.
 - CMU, Intro to Database Systems(2022) (finished)
 - [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
   "Data Types")
-- Deep dive into PostgreSQL (had very basic step, more to come).
+- Deep dive into PostgreSQL (had very basic steps, more to come).
 - Redis (coming up)
 
 ### Data Structures and Algorithms (DSA)
