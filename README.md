@@ -9,9 +9,8 @@ add to it as needed.
 - ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a video preview here'),
   concerned on arabic literature: poetry and prose. It assumes a business model
   to order a specific piece of literature to be printed and delivered to
-  customer, with the ability for the customer to follow up the process.
-  Different samples of this project (till now): All in TypeScript, "Adeeb أديب"
-  developed with
+  customer, with the ability for the customer to follow up the process. All in
+  TypeScript, developed with
   [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
   [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
 
