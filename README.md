@@ -14,7 +14,11 @@ add to it as needed.
   [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
   [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
 
-  - _not neccessary to come, but maybe_: Dashboard for "Adeeb أديب".
+### Currently working on:
+
+- Developing SSR front-end for "Adeeb أديب" using Quasar Framework and Vue.
+- Migrating "Adeeb أديب" Backend to use PostgreSQL using raw SQL or a query
+  builder like Knex.js
 
 ## Current skills:
 
@@ -31,6 +35,8 @@ add to it as needed.
 
 - solid ground on Algorithms and Data Structures
 - Unit/Component/E2E Testing using Cypress and Jest
+- Deep dive in Database (PostgreSQL as a choice).
+- Using SSR in frontend.
 - Basic knowledge about Architecture and Design
 - Docker
 
