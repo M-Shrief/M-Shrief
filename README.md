@@ -72,7 +72,6 @@ add to it as needed.
 
 - Code Complete (Reached and finished Part 4)
 - Working Effectively with Legacy code (reached and finished part2, CH9)
-- Introduction to Algorithms (delayed)
 - Patterns of Enterprise Application Architecture (reached and finished the
   first 40 pages)
 - Grokking Algorithms
@@ -88,3 +87,21 @@ add to it as needed.
   - Unit Tests
   - Error Handling (around 10pages)
   - Boundaries (around 8 pages)
+
+**Currently Focusing on:**
+
+- Design Data Intensive (trying to reach as far as I can, should finish it)
+- Nodejs Design Patterns (Have to finish it )
+
+**Slowly, Re-reading and Re-thinking to get a more solid understanding**
+
+- Code Complete
+- Working Effectively with Legacy code
+- Clean Code
+- Grokking Algorithm (already finished)
+
+**To look on the future _(after finishing what I started)_:**
+
+- Refactoring Improving the Design of Existing Code
+- Refatoring to Patterns
+- Reactive Design Patterns
