@@ -16,8 +16,8 @@ add to it as needed.
 
 ### Currently working on:
 
-- Developing SSR front-end for "Adeeb أديب" using Quasar Framework and Vue.
-- Migrating "Adeeb أديب" Backend to use PostgreSQL.
+- [Developing SSR front-end for "Adeeb أديب" using Quasar Framework and Vue](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repository').
+- [Migrating "Adeeb أديب" Backend to use PostgreSQL](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres 'github repository').
 
 ## Current skills:
 
