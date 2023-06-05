@@ -1,40 +1,45 @@
-This can be considered as a portfolio to document and upload my new projects
-(models of my learning) in a more intensive & organised form. I'm aiming to Show
-my learning process, workflow and on. Hoping to intensify my owned knowledge and
-add to it as needed.
-[You can see my Resume here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume').
+I'm a Junior Frontend & Backend developer, I'm always longing to work with an
+experienced team to learn from and add to them.
+[You can see my Resume here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume'),
+you can assume this as a portofolio.
 
 ## Projects
 
 - ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a video preview here'),
   concerned on arabic literature: poetry and prose. It assumes a business model
   to order a specific piece of literature to be printed and delivered to
-  customer, with the ability for the customer to follow up the process. All in
-  TypeScript, developed with
-  [Vue, Pinia and vue-router](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
-  [Node/Express and MongoDB](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
+  customer, with the ability for the customer to follow up the process.
+  Developed with:
+  - Vue, Pinia and vue-router for the frontend,
+    [check here](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
+  - Node/Express and MongoDB for the backend,
+    [check here](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
 
 ### Currently working on:
 
 - [Developing SSR front-end for "Adeeb أديب" using Quasar Framework and Vue](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repository').
 - [Migrating "Adeeb أديب" Backend to use PostgreSQL](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres 'github repository').
 
-## Current skills:
+## Current skills
 
-- JavaScript (ES5, ES6)
-- TypeScript
-- VueJS + (Pinia and vue-router)
+- JavaScript & TypeScript
 - NodeJS and Express.JS
-- Used MySQL and MongoDB.
-- CSS, SCSS and TailwindCSS (For tailwind, I know how to use it but I don't
-  really like to use it)
-- I'd an experience deploying with Docker
+- VueJS + (Pinia and vue-router)
+- Used Postgres, MySQL and MongoDB.
+- CSS & SCSS.
+- Docker's basics
 
 ### Working to add:
 
-- solid ground on Algorithms and Data Structures
-- Unit/Component/E2E Testing using Cypress and Jest
-- Deep dive in Database (PostgreSQL as a choice).
+- Git Workflow.
+- solid ground on Algorithms and Data Structures.
+- Solid ground on OOP & design patterns.
+- Unit/Component/E2E Testing using Cypress and Jest.
+- Network Basics, in-depth knowledge about HTTP(s) and TCP/IP basics.
+- HTTP RESTFUL (especially interceptors).
+- Deep dive in Databases (PostgreSQL & Redis).
+- WebSockets
+- Nginx & API gateway
 - Using SSR in frontend.
 - Basic knowledge about Architecture and Design
 - Docker
@@ -47,7 +52,7 @@ add to it as needed.
   - Introduction to Cloud Computing (Finished)
   - Introduction to Agile Development and Scrum (Coming up)
 
-### Databases
+## Databases
 
 - CMU, Intro to Database Systems(2022) (finished)
 - [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
@@ -55,20 +60,13 @@ add to it as needed.
 - Deep dive into PostgreSQL (had very basic steps, more to come).
 - Redis (coming up)
 
-### Data Structures and Algorithms (DSA)
+## Data Structures and Algorithms (DSA)
 
 - [Programiz - DSA](https://www.programiz.com/dsa): **reached Sorting and
   Searching Algorithms**
 - CS50 lectures about [Arrays, Algorithms, Data Structures]
 
-### not a diary
-
-- Used Docker to host my Databases (MongoDB - MySQL), it drained the machine too
-  much. can be fixed if I:
-  - moved to Manjaro linux
-  - changed to SSD.
-
-### Books
+## Books
 
 - Code Complete (Reached and finished Part 4)
 - Working Effectively with Legacy code (reached and finished part2, CH9)
@@ -78,29 +76,22 @@ add to it as needed.
 - Designing Data Intensive Application (reached and finished part1)
 - JavaScript Enlightenment
 - Object-Oriented JavaScript by Stoyan Stefanov
-- Clean Code, finished:
-  - Intro
-  - Meaningful names
-  - Functions
-  - Comments
-  - Objects and data structures
-  - Unit Tests
-  - Error Handling (around 10pages)
-  - Boundaries (around 8 pages)
+- Clean Code, finished: Intro, Meaningful names, Functions, Comments, Objects
+  and data structures, Unit Tests, Error Handling, and Boundaries
 
-**Currently Focusing on:**
+### Currently Focusing on
 
 - Design Data Intensive (trying to reach as far as I can, should finish it)
 - Nodejs Design Patterns (Have to finish it )
 
-**Slowly, Re-reading and Re-thinking to get a more solid understanding**
+### Slowly, re-reading and re-studying to get a more solid understanding
 
 - Code Complete
 - Working Effectively with Legacy code
 - Clean Code
 - Grokking Algorithm (already finished)
 
-**To look on the future _(after finishing what I started)_:**
+### To look on the future _(after finishing what I started)_
 
 - Refactoring Improving the Design of Existing Code
 - Refatoring to Patterns
