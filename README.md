@@ -1,7 +1,9 @@
 I'm a Junior Frontend & Backend developer, I'm always longing to work with an
 experienced team to learn from and add to them.
-[You can see my Resume here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume'),
-you can assume this as a portofolio.
+
+Check my portofolio [here](https://m-shrief.github.io/site/ 'Portofolio'), or
+check my Resume
+[here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume'),
 
 ## Projects
 
