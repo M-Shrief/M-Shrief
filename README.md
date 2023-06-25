@@ -8,10 +8,13 @@ check my Resume
 ## Projects
 
 - ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a video preview here'),
-  concerned on arabic literature: poetry and prose. It assumes a business model
-  to order a specific piece of literature to be printed and delivered to
-  customer, with the ability for the customer to follow up the process.
-  Developed with:
+  It's concerned with Arabic literature. It assumes a business model that
+  enables you to order a specific piece of literature to be printed with
+  especial colors and font. Then it'll be delivered to the customer, with the
+  ability for the customer to follow up the process. And for special customers,
+  it provides them with the ability to make bulk orders fast and easy. And if
+  they’re willing to signup, they can review all of their past orders. Developed
+  with:
   - Vue, Pinia and vue-router for the frontend,
     [check here](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
   - Node/Express and MongoDB for the backend,
