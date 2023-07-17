@@ -1,5 +1,14 @@
-I'm a Junior Frontend & Backend developer, I'm always longing to work with an
-experienced team to learn from and add to them.
+# Mohamed Shrief (Junior Frontend & Backend Developer)
+
+- Working mainly with JavaScript & TypeScript.
+
+- Using Vuejs' ecosystem in the frontend.
+
+- Using Nodejs & Express.js in the backend.
+
+- Working to deep dive in databases especially Postgres & Redis.
+
+- Going to Learn Go.
 
 Check my portofolio [here](https://m-shrief.github.io/site/ 'Portofolio'), or
 check my Resume
@@ -20,17 +29,20 @@ check my Resume
   - Node/Express and MongoDB for the backend,
     [check here](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
 
-### Currently working on:
-
-- [Developing SSR front-end for "Adeeb أديب" using Quasar Framework and Vue](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repository').
-- [Migrating "Adeeb أديب" Backend to use PostgreSQL](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres 'github repository').
+### Also Managed to:
+  
+  - Use **Quasar** framework to make the frontend to render on the server (SSR),
+    [check repo](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repo').
+  
+  - Migrate the backend to use **Postgres** and **TypeORM**,
+    [check repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres 'github repo').
 
 ## Current skills
 
 - JavaScript & TypeScript
 - NodeJS and Express.JS
 - VueJS + (Pinia and vue-router)
-- Used Postgres, MySQL and MongoDB.
+- Postgres & MongoDB.
 - CSS & SCSS.
 - Docker's basics
 
