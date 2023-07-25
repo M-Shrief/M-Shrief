@@ -102,7 +102,7 @@ My Role: Frontend & Backend development, project details:
 - [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
   "Data Types")
 - Deep dive into PostgreSQL (had very basic steps, more to come).
-- Redis (coming up)
+- Redis university, Introduction to Redis Data Structures "RU101" (Week 3)
 
 ## Data Structures and Algorithms (DSA)
 
