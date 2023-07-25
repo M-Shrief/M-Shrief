@@ -22,20 +22,47 @@ check my Resume
   especial colors and font. Then it'll be delivered to the customer, with the
   ability for the customer to follow up the process. And for special customers,
   it provides them with the ability to make bulk orders fast and easy. And if
-  they’re willing to signup, they can review all of their past orders. Developed
-  with:
-  - Vue, Pinia and vue-router for the frontend,
-    [check here](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repository for the FrontEnd'),
-  - Node/Express and MongoDB for the backend,
-    [check here](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repository for the BackEnd')
+  they’re willing to signup, they can review all of their past orders. 
 
-### Also Managed to:
-  
-  - Use **Quasar** framework to make the frontend to render on the server (SSR),
-    [check repo](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repo').
-  
-  - Migrate the backend to use **Postgres** and **TypeORM**,
-    [check repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres 'github repo').
+My Role: Frontend & Backend development, project details:
+
+- Frontend ([Check repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo")):
+
+  - Tech Stack:
+
+    - Full **TypeScript**
+    - **HTML, CSS & SCSS**
+    - **Vite**
+    - **Vuejs**
+    - **Pinia** & **Vue-router**
+
+  - Characteristics:
+
+    - form validation with _vee-validate_ & _Yup_
+    - _JWT_ authentication and authorization
+    - Dark/Light Theme
+    - Component testing with _Cypress_
+    - ... and more
+
+- Backend ([Postgres repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo") – [Mongo repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
+
+  - Tech stack:
+
+    - Full **TypeScript**
+    - **Nodejs** & **Express.js**
+    - Database:
+      - **Postgres** & **TypeORM** (for one version)
+      - **MongoDB** & **Mongoose** (for the other)
+      - Caching with **Redis**
+
+  - characteristics:
+
+    - _JWT_ Authentication & Authorization
+    - Centralized Error Handling
+    - Data Validation with _Yup_ and _express-validator_
+    - Security best practices from _OWASP_
+    - …and more
+
 
 ## Current skills
 
