@@ -10,19 +10,19 @@
 
 - Going to Learn Go.
 
-Check my portofolio [here](https://m-shrief.github.io/site/ 'Portofolio'), or
+Check my portofolio [here](https://m-shrief.github.io/site/ "Portofolio"), or
 check my Resume
-[here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf 'check Resume'),
+[here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf "check Resume"),
 
 ## Projects
 
-- ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview 'check a video preview here'),
+- ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview "check a video preview here"),
   It's concerned with Arabic literature. It assumes a business model that
   enables you to order a specific piece of literature to be printed with
   especial colors and font. Then it'll be delivered to the customer, with the
   ability for the customer to follow up the process. And for special customers,
   it provides them with the ability to make bulk orders fast and easy. And if
-  they’re willing to signup, they can review all of their past orders. 
+  they’re willing to signup, they can review all of their past orders.
 
 My Role: Frontend & Backend development, project details:
 
@@ -63,7 +63,6 @@ My Role: Frontend & Backend development, project details:
     - Security best practices from _OWASP_
     - …and more
 
-
 ## Current skills
 
 - JavaScript & TypeScript
@@ -91,7 +90,7 @@ My Role: Frontend & Backend development, project details:
 # Learning Journey
 
 - CS50's Introduction to Programming with Python "CS50P" 2022 (finished)
-- [IBM, "DevOps, Cloud, and Agile Foundations" Specialization](https://www.coursera.org/specializations/devops-cloud-and-agile-foundations#courses 'Check on Coursera'):
+- [IBM, "DevOps, Cloud, and Agile Foundations" Specialization](https://www.coursera.org/specializations/devops-cloud-and-agile-foundations#courses "Check on Coursera"):
   - Introduction to DevOps (Finished)
   - Introduction to Cloud Computing (Finished)
   - Introduction to Agile Development and Scrum (Coming up)
@@ -102,7 +101,7 @@ My Role: Frontend & Backend development, project details:
 - [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
   "Data Types")
 - Deep dive into PostgreSQL (had very basic steps, more to come).
-- Redis university, Introduction to Redis Data Structures "RU101" (Week 3)
+- Redis university, Introduction to Redis Data Structures "RU101" ([Certificate](https://university.redis.com/certificates/3dca706d75e5426e8438a7d54602e379 "view certificate"))
 
 ## Data Structures and Algorithms (DSA)
 
