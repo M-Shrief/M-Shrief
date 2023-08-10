@@ -63,6 +63,8 @@ My Role: Frontend & Backend development, project details:
     - Security best practices from _OWASP_
     - …and more
 
+**Currently Working on:** "Adeeb أديب" SSR Frontend with **Astro & Vuejs**, [for more info](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo")
+
 ## Current skills
 
 - JavaScript & TypeScript
