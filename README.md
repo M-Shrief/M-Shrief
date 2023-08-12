@@ -1,4 +1,4 @@
-# Mohamed Shrief (Junior Frontend & Backend Developer)
+# Mohamed Shrief (Junior Backend & Frontend Developer)
 
 - Working mainly with JavaScript & TypeScript.
 
