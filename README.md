@@ -14,6 +14,15 @@ Check my portofolio [here](https://m-shrief.github.io/site/ "Portofolio"), or
 check my Resume
 [here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf "check Resume"),
 
+## Current skills
+
+- JavaScript & TypeScript
+- Nodejs & Express.js
+- Postgres, MongoDB and Redis
+- HTML, CSS and SCSS
+- Vuejs’ ecosystem (Vite, Pinia, vue-router and VitePress)
+- Astro
+
 ## Projects
 
 - ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview "check a video preview here"),
@@ -24,55 +33,37 @@ check my Resume
   it provides them with the ability to make bulk orders fast and easy. And if
   they’re willing to signup, they can review all of their past orders.
 
-My Role: Frontend & Backend development, project details:
+My Role: Frontend & Backend development, it have 2 versions:
 
-- Frontend ([Check repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo")):
-
-  - Tech Stack:
-
-    - Full **TypeScript**
-    - **HTML, CSS & SCSS**
-    - **Vite**
-    - **Vuejs**
-    - **Pinia** & **Vue-router**
-
-  - Characteristics:
-
-    - form validation with _vee-validate_ & _Yup_
-    - _JWT_ authentication and authorization
-    - Dark/Light Theme
-    - Component testing with _Cypress_
-    - ... and more
-
-- Backend ([Postgres repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo") – [Mongo repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
+- “Adeeb أديب ” SSR with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
 
-    - Full **TypeScript**
-    - **Nodejs** & **Express.js**
-    - Database:
-      - **Postgres** & **TypeORM** (for one version)
-      - **MongoDB** & **Mongoose** (for the other)
-      - Caching with **Redis**
+    - TypeScript with HTML & CSS
+    - Astro & Vuejs
+    - Nodejs & Express.js
+    - Postgres & TypeORM with Redis
+  - Characteristics:
 
-  - characteristics:
+    - JWT authentication & authorization
+    - Data validation with vee-validate & Yup
+    - Dark/Light Theme
+    - API tests with Mocha & Chai.
+- “Adeeb أديب ” SPA with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
 
-    - _JWT_ Authentication & Authorization
-    - Centralized Error Handling
-    - Data Validation with _Yup_ and _express-validator_
-    - Security best practices from _OWASP_
-    - …and more
+  - Tech Stack:
 
-**Currently Working on:** "Adeeb أديب" SSR Frontend with **Astro & Vuejs**, [for more info](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo")
+    - TypeScript with HTML & CSS
+    - Vuejs with Pinia & vue-router
+    - Nodejs & Express.js
+    - MongoDB with Redis
 
-## Current skills
+  - Characteristics:
 
-- JavaScript & TypeScript
-- NodeJS and Express.JS
-- VueJS + (Pinia and vue-router)
-- Postgres & MongoDB.
-- CSS & SCSS.
-- Docker's basics
+    - JWT authentication & authorization
+    - Data validation with vee-validate & Yup
+    - Dark/Light Theme
+    - API tests with Mocha & Chai, frontend component testing with Cypress
 
 ### Working to add:
 
