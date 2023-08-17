@@ -12,7 +12,7 @@
 
 Check my portofolio [here](https://m-shrief.github.io/site/ "Portofolio"), or
 check my Resume
-[here](https://github.com/M-Shrief/M-Shrief/blob/main/mohamed-resume.pdf "check Resume"),
+[here](https://github.com/M-Shrief/M-Shrief/blob/main/Mohamed%20Shrief%20-%20Junior%20Backend%20%26%20Frontend%20developer.pdf "check Resume"),
 
 ## Current skills
 
