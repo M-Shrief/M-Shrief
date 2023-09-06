@@ -10,7 +10,7 @@
 
 - Going to Learn Go.
 
-Check my portofolio [here](https://m-shrief.github.io/site/ "Portofolio"), or
+Check my portofolio [here](https://m-shrief.tech "Portofolio"), or
 check my Resume
 [here](https://github.com/M-Shrief/M-Shrief/blob/main/Mohamed%20Shrief%20-%20Junior%20Backend%20%26%20Frontend%20developer.pdf "check Resume"),
 
@@ -35,7 +35,7 @@ check my Resume
 
 My Role: Frontend & Backend development, it have 2 versions:
 
-- “Adeeb أديب ” SSR with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- “Adeeb أديب ” SSR with a REST API ([Live deployment](https://adeeb.m-shrief.tech/ 'Go to live deployment') - [Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
 
@@ -49,6 +49,14 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Data validation with vee-validate & Yup
     - Dark/Light Theme
     - API tests with Mocha & Chai.
+        
+  - Deployment:
+
+    - Frontend deployed on Digital ocean server, on Ubuntu, with Astro's node adapter and Nginx & PM2.
+    - Backend deployed on Digital ocean server, on Ubuntu, with Nginx & PM2.
+    - Remote Databases managed and deployed on Digital ocean.
+    - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
+
 - “Adeeb أديب ” SPA with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
 
   - Tech Stack:
@@ -65,44 +73,21 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Dark/Light Theme
     - API tests with Mocha & Chai, frontend component testing with Cypress
 
-### Working to add:
+## Learning Journey
 
-- Git Workflow.
-- solid ground on Algorithms and Data Structures.
-- Solid ground on OOP & design patterns.
-- Unit/Component/E2E Testing using Cypress and Jest.
-- Network Basics, in-depth knowledge about HTTP(s) and TCP/IP basics.
-- HTTP RESTFUL (especially interceptors).
-- Deep dive in Databases (PostgreSQL & Redis).
-- WebSockets
-- Nginx & API gateway
-- Using SSR in frontend.
-- Basic knowledge about Architecture and Design
-- Docker
+Mentioning some resources that i learned from, I didn't count tutorials, talks, blogs,...etc.
 
-# Learning Journey
+### Courses
 
-- CS50's Introduction to Programming with Python "CS50P" 2022 (finished)
+- CS50's Introduction to Programming with Python "CS50P" 2022
+- CMU, Intro to Database Systems(2022) (finished)
+- Redis university, Introduction to Redis Data Structures "RU101" ([Certificate](https://university.redis.com/certificates/3dca706d75e5426e8438a7d54602e379 "view certificate"))
 - [IBM, "DevOps, Cloud, and Agile Foundations" Specialization](https://www.coursera.org/specializations/devops-cloud-and-agile-foundations#courses "Check on Coursera"):
-  - Introduction to DevOps (Finished)
-  - Introduction to Cloud Computing (Finished)
+  - Introduction to DevOps.
+  - Introduction to Cloud Computing.
   - Introduction to Agile Development and Scrum (Coming up)
 
-## Databases
-
-- CMU, Intro to Database Systems(2022) (finished)
-- [Prisma's Data Guide](https://www.prisma.io/dataguide) (Reached and finished
-  "Data Types")
-- Deep dive into PostgreSQL (had very basic steps, more to come).
-- Redis university, Introduction to Redis Data Structures "RU101" ([Certificate](https://university.redis.com/certificates/3dca706d75e5426e8438a7d54602e379 "view certificate"))
-
-## Data Structures and Algorithms (DSA)
-
-- [Programiz - DSA](https://www.programiz.com/dsa): **reached Sorting and
-  Searching Algorithms**
-- CS50 lectures about [Arrays, Algorithms, Data Structures]
-
-## Books
+### Books
 
 - Code Complete (Reached and finished Part 4)
 - Working Effectively with Legacy code (reached and finished part2, CH9)
@@ -117,18 +102,5 @@ My Role: Frontend & Backend development, it have 2 versions:
 
 ### Currently Focusing on
 
-- Design Data Intensive (trying to reach as far as I can, should finish it)
-- Nodejs Design Patterns (Have to finish it )
-
-### Slowly, re-reading and re-studying to get a more solid understanding
-
-- Code Complete
-- Working Effectively with Legacy code
-- Clean Code
-- Grokking Algorithm (already finished)
-
-### To look on the future _(after finishing what I started)_
-
-- Refactoring Improving the Design of Existing Code
-- Refatoring to Patterns
-- Reactive Design Patterns
+- Design Data Intensive
+- Nodejs Design Patterns
