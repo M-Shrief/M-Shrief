@@ -52,9 +52,8 @@ My Role: Frontend & Backend development, it have 2 versions:
         
   - Deployment:
 
-    - Frontend deployed on Digital ocean server, on Ubuntu, with Astro's node adapter and Nginx & PM2.
-    - Backend deployed on Digital ocean server, on Ubuntu, with Nginx & PM2.
-    - Remote Databases managed and deployed on Digital ocean.
+    - **Frontend**: deployed on Digital ocean server, on Ubuntu, with Astro's node adapter and Nginx & PM2.
+    - **Backend**: deployed on Digital ocean server, on Ubuntu, with Nginx & PM2, databases (Postgres & Redis) managed on the same server.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
 - “Adeeb أديب ” SPA with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
