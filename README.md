@@ -48,7 +48,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - JWT authentication & authorization
     - Data validation with vee-validate & Yup
     - Dark/Light Theme
-    - API tests with Mocha & Chai.
+    - API tests with Mocha & Chai, and component testing with Cypress.
         
   - Deployment:
 
