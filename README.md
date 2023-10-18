@@ -23,6 +23,10 @@ check my Resume
 - Vuejs’ ecosystem (Vite, Pinia, vue-router and VitePress)
 - Astro
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Shrief&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ## Projects
 
 - ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview "check a video preview here"),
@@ -48,7 +52,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - JWT authentication & authorization
     - Data validation with vee-validate & Yup
     - Dark/Light Theme
-    - API tests with Mocha & Chai, and component testing with Cypress.
+    - API tests with Mocha & Chai, and component testing with Vitest.
         
   - Deployment:
 
