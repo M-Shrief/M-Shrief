@@ -1,14 +1,12 @@
-# Mohamed Shrief (Junior Backend & Frontend Developer)
+# Mohamed Shrief (Junior Software Engineer)
 
-- Working mainly with JavaScript & TypeScript.
+- I'm working across the Backend and the Frontend
+- I'm working mainly with JavaScript and TypeScript.
+- I'm working with Nodejs and Express.js in the backend
+- I'm working with Postgres, MongoDB and Redis.
+- I'm working with Astro and Vuejs ecosystem in the frontend.
+- Currently, I'm learning Go.
 
-- Using Vuejs' ecosystem in the frontend.
-
-- Using Nodejs & Express.js in the backend.
-
-- Working to deep dive in databases especially Postgres & Redis.
-
-- Going to Learn Go.
 
 Check my portofolio [here](https://m-shrief.tech "Portofolio"), or
 check my Resume
@@ -74,7 +72,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - JWT authentication & authorization
     - Data validation with vee-validate & Yup
     - Dark/Light Theme
-    - API tests with Mocha & Chai, frontend component testing with Cypress
+    - Regression testing with Vitest and Component testing with Cypress.
 
 ## Learning Journey
 
