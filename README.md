@@ -51,6 +51,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Data validation with vee-validate & Yup
     - Dark/Light Theme
     - Regression and Component testing with Vitest.
+    - Github actions for testing
         
   - Deployment:
 
@@ -73,6 +74,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Data validation with vee-validate & Yup
     - Dark/Light Theme
     - Regression testing with Vitest and Component testing with Cypress.
+    - Github actions for testing
 
 ## Learning Journey
 
