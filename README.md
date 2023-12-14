@@ -40,23 +40,22 @@ My Role: Frontend & Backend development, it have 2 versions:
 - “Adeeb أديب ” SSR with a REST API ([Live deployment](https://adeeb.m-shrief.tech/ 'Go to live deployment') - [Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
-
-    - TypeScript with HTML & CSS
-    - Astro & Vuejs
-    - Nodejs & Express.js
-    - Postgres & TypeORM with Redis
-  - Characteristics:
-
-    - JWT authentication & authorization
-    - Data validation with vee-validate & Yup
-    - Dark/Light Theme
+    - TypeScript with HTML and SCSS
+    - Astro and Vuejs
+    - Nodejs and Express.js
+    - Postgres and TypeORM with Redis
+    - Docker Containerization
+  - Characteristics: 
+    - Full mark on google’s lighthouse, and PageSpeed insights.
+    - JWT authentication and authorization.
+    - Data validation with Vee-Validate and Yup.
+    - Dark/Light Theme.
     - Regression and Component testing with Vitest.
-    - Github actions for testing
-        
+    - CI using github actions for testing
+    - Sentry for monitoring errors and performance
   - Deployment:
-
-    - **Frontend**: deployed on Digital ocean server, on Ubuntu, with Astro's node adapter and Nginx & PM2.
-    - **Backend**: deployed on Digital ocean server, on Ubuntu, with Nginx & PM2, databases (Postgres & Redis) managed on the same server.
+    - Frontend deployed on Digital ocean server, on Ubuntu and Nginx.
+    - Backend deployed on Digital ocean server, on Ubuntu, with Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
 - “Adeeb أديب ” SPA with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
