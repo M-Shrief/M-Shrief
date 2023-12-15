@@ -67,6 +67,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Vuejs with Pinia & vue-router
     - Nodejs & Express.js
     - MongoDB with Redis
+    - Docker Containerization
 
   - Characteristics:
 
