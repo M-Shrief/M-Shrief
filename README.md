@@ -55,8 +55,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - CI using github actions for testing
     - Sentry for monitoring errors and performance
   - Deployment:
-    - Frontend deployed on Digital ocean server, on Ubuntu and Nginx.
-    - Backend deployed on Digital ocean server, on Ubuntu, with Nginx.
+    - Deployed on Digital ocean server, on Ubuntu and Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
 - “Adeeb أديب ” SPA with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
