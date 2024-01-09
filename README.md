@@ -47,7 +47,7 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Postgres and TypeORM with Redis
     - Docker Containerization
   - Characteristics: 
-    - Full mark on google’s lighthouse, and PageSpeed insights.
+    - Full mark on google’s lighthouse.
     - JWT authentication and authorization.
     - Data validation with Vee-Validate and Yup.
     - Dark/Light Theme.
@@ -97,13 +97,8 @@ Mentioning some resources that i learned from, I didn't count tutorials, talks, 
 - Patterns of Enterprise Application Architecture (reached and finished the
   first 40 pages)
 - Grokking Algorithms
-- Designing Data Intensive Application (reached and finished part1)
+- Designing Data Intensive Application (reached and finished part6)
 - JavaScript Enlightenment
 - Object-Oriented JavaScript by Stoyan Stefanov
 - Clean Code, finished: Intro, Meaningful names, Functions, Comments, Objects
   and data structures, Unit Tests, Error Handling, and Boundaries
-
-### Currently Focusing on
-
-- Design Data Intensive
-- Nodejs Design Patterns
