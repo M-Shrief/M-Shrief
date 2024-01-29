@@ -15,6 +15,7 @@ check my Resume
 ## Current skills
 
 - JavaScript & TypeScript
+- Go
 - Nodejs & Express.js
 - Postgres, MongoDB and Redis
 - HTML, CSS and SCSS
@@ -22,30 +23,30 @@ check my Resume
 - Astro
 - Docker Containerization
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Shrief&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
+</div>
 
 ## Projects
 
-- ["Adeeb أديب"](https://github.com/M-Shrief/M-Shrief/tree/main/adeeb_overview "check a video preview here"),
-  It's concerned with Arabic literature. It assumes a business model that
-  enables you to order a specific piece of literature to be printed with
-  especial colors and font. Then it'll be delivered to the customer, with the
-  ability for the customer to follow up the process. And for special customers,
-  it provides them with the ability to make bulk orders fast and easy. And if
-  they’re willing to signup, they can review all of their past orders.
-
-My Role: Frontend & Backend development, it have 2 versions:
-
-- “Adeeb أديب ” SSR with a REST API ([Live deployment](https://adeeb.m-shrief.tech/ 'Go to live deployment') - [Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- "Adeeb أديب", ([Live deployment](https://adeeb.m-shrief.tech/ 'Go to live deployment') - [Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
-    - TypeScript with HTML and SCSS
-    - Astro and Vuejs
-    - Nodejs and Express.js
-    - Postgres and TypeORM with Redis
-    - Docker Containerization
+    - Adeeb’s frontned:
+      - JavaScript and TypeScript
+      - HTML, SCSS and Vite.
+      - Astro
+      - Vuejs
+      
+    - Adeeb’s backend:
+      - JavaScript and TypeScript
+      - Nodejs and Express.js
+      - Postgres and TypeORM with Redis  
+
+    - Users' service:
+      - Go
+      - Postgres with Sqlc and Pgx.   
+
   - Characteristics: 
     - Full mark on google’s lighthouse.
     - JWT authentication and authorization.
@@ -54,27 +55,12 @@ My Role: Frontend & Backend development, it have 2 versions:
     - Regression and Component testing with Vitest.
     - CI using github actions for testing
     - Sentry for monitoring errors and performance
+    - Docker Containerization
   - Deployment:
     - Deployed on Digital ocean server, on Ubuntu and Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
-- “Adeeb أديب ” SPA with a REST API ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
-
-  - Tech Stack:
-
-    - TypeScript with HTML & CSS
-    - Vuejs with Pinia & vue-router
-    - Nodejs & Express.js
-    - MongoDB with Redis
-    - Docker Containerization
-
-  - Characteristics:
-
-    - JWT authentication & authorization
-    - Data validation with vee-validate & Yup
-    - Dark/Light Theme
-    - Regression testing with Vitest and Component testing with Cypress.
-    - Github actions for testing
+- “Adeeb أديب ” (2nd version), mainly consists of a SPA with a REST API. My Role: Full Development. ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
 
 ## Learning Journey
 
