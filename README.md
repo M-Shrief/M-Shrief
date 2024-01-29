@@ -61,6 +61,22 @@ check my Resume
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
 - “Adeeb أديب ” (2nd version), mainly consists of a SPA with a REST API. My Role: Full Development. ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
+  - Tech stack:
+    
+    - JavaScript and TypeScript
+    - HTML, SCSS and Vite
+    - Vuejs with Pinia and vue-router
+    - Nodejs and Express.js
+    - MongoDB with Redis
+
+  - Characteristics:
+    
+    - JWT authentication and authorization
+    - Data validation with vee-validate and Yup
+    - Dark/Light Theme
+    - Regression and Component testing with Vitest and Cypress.
+    - Github actions for testing
+    - Docker Containerization
 
 ## Learning Journey
 
