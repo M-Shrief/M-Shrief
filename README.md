@@ -50,6 +50,7 @@ check my Resume
   - Characteristics: 
     - Full mark on google’s lighthouse.
     - JWT authentication and authorization.
+    - Internationalization
     - Data validation with Vee-Validate and Yup.
     - Dark/Light Theme.
     - Regression and Component testing with Vitest.
