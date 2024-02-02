@@ -51,7 +51,7 @@ check my Resume
     - Full mark on google’s lighthouse.
     - JWT authentication and authorization.
     - Internationalization
-    - Data validation with Vee-Validate and Yup.
+    - Data validation.
     - Dark/Light Theme.
     - Regression and Component testing with Vitest.
     - CI using github actions for testing
@@ -73,7 +73,7 @@ check my Resume
   - Characteristics:
     
     - JWT authentication and authorization
-    - Data validation with vee-validate and Yup
+    - Data validation.
     - Dark/Light Theme
     - Regression and Component testing with Vitest and Cypress.
     - Github actions for testing
