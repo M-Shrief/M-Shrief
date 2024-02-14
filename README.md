@@ -48,7 +48,7 @@ check my Resume
       - Postgres with Sqlc and Pgx.   
 
   - Characteristics: 
-    - Full mark on google’s lighthouse.
+    - +90 marks on google’s lighthouse.
     - JWT authentication and authorization.
     - Internationalization
     - Data validation.
