@@ -55,6 +55,7 @@ check my Resume
     - Dark/Light Theme.
     - Regression and Component testing with Vitest.
     - CI using github actions for testing
+    - Documentation with TSdoc and TypeDoc.
     - Sentry for monitoring errors and performance
     - Docker Containerization
   - Deployment:
