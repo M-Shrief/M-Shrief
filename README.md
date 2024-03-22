@@ -10,7 +10,7 @@
 
 Check my portofolio [here](https://m-shrief.tech "Portofolio"), or
 check my Resume
-[here](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20%20Junior%20Software%20Engineer%20(Backend%20-%20Frontend).pdf "check Resume"),
+[here](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20%20Junior%20Software%20Developer%20(Backend%20-%20Frontend).pdf "check Resume"),
 
 ## Current skills
 
