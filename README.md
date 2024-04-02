@@ -29,7 +29,7 @@ check my Resume
 
 ## Projects
 
-- "Adeeb أديب", ([Live deployment](https://adeeb.m-shrief.tech/ 'Go to live deployment') - [Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- "Adeeb أديب", ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
     - Adeeb’s frontned:
