@@ -17,7 +17,7 @@ check my Resume
 - JavaScript & TypeScript
 - Go
 - Nodejs & Express.js
-- Postgres, MongoDB and Redis
+- Postgres, MongoDB and ~~Redis~~ **ValKey**
 - HTML, CSS and SCSS
 - Vuejs’ ecosystem (Vite, Pinia, vue-router and VitePress)
 - Astro
@@ -41,7 +41,7 @@ check my Resume
     - Adeeb’s backend:
       - JavaScript and TypeScript
       - Nodejs and Express.js
-      - Postgres and TypeORM with Redis  
+      - Postgres and TypeORM with ~~Redis~~ **ValKey**  
 
     - Users' service:
       - Go
@@ -69,7 +69,7 @@ check my Resume
     - HTML, SCSS and Vite
     - Vuejs with Pinia and vue-router
     - Nodejs and Express.js
-    - MongoDB with Redis
+    - MongoDB with ~~Redis~~ **ValKey**
 
   - Characteristics:
     
