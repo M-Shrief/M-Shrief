@@ -3,7 +3,7 @@
 - I'm working across the Backend and the Frontend
 - I'm working mainly with JavaScript and TypeScript.
 - I'm working with Nodejs and Express.js in the backend
-- I'm working with Postgres, MongoDB and Redis.
+- I'm working with Postgres, MongoDB and Redis/ValKey.
 - I'm working with Astro and Vuejs ecosystem in the frontend.
 - Currently, I'm learning Go.
 
@@ -17,7 +17,7 @@ check my Resume
 - JavaScript & TypeScript
 - Go
 - Nodejs & Express.js
-- Postgres, MongoDB and ~~Redis~~ **ValKey**
+- Postgres, MongoDB and Redis/ValKey
 - HTML, CSS and SCSS
 - Vuejs’ ecosystem (Vite, Pinia, vue-router and VitePress)
 - Astro
@@ -41,7 +41,7 @@ check my Resume
     - Adeeb’s backend:
       - JavaScript and TypeScript
       - Nodejs and Express.js
-      - Postgres and TypeORM with ~~Redis~~ **ValKey**  
+      - Postgres and TypeORM with Redis/ValKey
 
     - Users' service:
       - Go
@@ -69,7 +69,7 @@ check my Resume
     - HTML, SCSS and Vite
     - Vuejs with Pinia and vue-router
     - Nodejs and Express.js
-    - MongoDB with ~~Redis~~ **ValKey**
+    - MongoDB with Redis/ValKey
 
   - Characteristics:
     
