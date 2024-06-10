@@ -29,7 +29,8 @@ check my Resume
 
 ## Projects
 
-- "Adeeb أديب", ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- "Adeeb أديب",  E-Commerce for printing Arabic. Using SSR frontend with REST API and
+gRPC API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
     - Adeeb’s frontned:
@@ -40,11 +41,11 @@ check my Resume
       
     - Adeeb’s backend:
       - JavaScript and TypeScript
-      - Nodejs and Express.js
+      - Nodejs and Express.js with gRPC and Protocol Buffers
       - Postgres and TypeORM with Redis/ValKey
 
     - Users' service:
-      - Go
+      - Go with gRPC and Protocol Buffers
       - Postgres with Sqlc and Pgx.   
 
   - Characteristics: 
@@ -62,9 +63,9 @@ check my Resume
     - Deployed on Digital ocean server, on Ubuntu and Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
-- “Adeeb أديب ” (2nd version), mainly consists of a SPA with a REST API. My Role: Full Development. ([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
-  - Tech stack:
-    
+- “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
+
+  - Tech stack:    
     - JavaScript and TypeScript
     - HTML, SCSS and Vite
     - Vuejs with Pinia and vue-router
@@ -72,7 +73,6 @@ check my Resume
     - MongoDB with Redis/ValKey
 
   - Characteristics:
-    
     - JWT authentication and authorization
     - Data validation.
     - Dark/Light Theme
@@ -92,17 +92,3 @@ Mentioning some resources that i learned from, I didn't count tutorials, talks, 
 - [IBM, "DevOps, Cloud, and Agile Foundations" Specialization](https://www.coursera.org/specializations/devops-cloud-and-agile-foundations#courses "Check on Coursera"):
   - Introduction to DevOps.
   - Introduction to Cloud Computing.
-  - Introduction to Agile Development and Scrum (Coming up)
-
-### Books
-
-- Code Complete (Reached and finished Part 4)
-- Working Effectively with Legacy code (reached and finished part2, CH9)
-- Patterns of Enterprise Application Architecture (reached and finished the
-  first 40 pages)
-- Grokking Algorithms
-- Designing Data Intensive Application (reached and finished part6)
-- JavaScript Enlightenment
-- Object-Oriented JavaScript by Stoyan Stefanov
-- Clean Code, finished: Intro, Meaningful names, Functions, Comments, Objects
-  and data structures, Unit Tests, Error Handling, and Boundaries
