@@ -59,7 +59,7 @@ gRPC API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "
     - Documentation with TSdoc and TypeDoc.
     - Sentry for monitoring errors and performance
     - Docker Containerization
-  - Deployment:
+  - Deployed From September 2023 to April 2024:
     - Deployed on Digital ocean server, on Ubuntu and Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
