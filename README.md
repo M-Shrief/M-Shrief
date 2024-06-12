@@ -29,8 +29,7 @@ check my Resume
 
 ## Projects
 
-- "Adeeb أديب",  E-Commerce for printing Arabic. Using SSR frontend with REST API and
-gRPC API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- "Adeeb أديب",  E-Commerce for printing Arabic. Using SSR frontend with REST API and gRPC API and Protocol Buffers.<br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
     - Adeeb’s frontned:
@@ -41,11 +40,11 @@ gRPC API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "
       
     - Adeeb’s backend:
       - JavaScript and TypeScript
-      - Nodejs and Express.js with gRPC and Protocol Buffers
+      - Nodejs and Express.js
       - Postgres and TypeORM with Redis/ValKey
 
     - Users' service:
-      - Go with gRPC and Protocol Buffers
+      - Go
       - Postgres with Sqlc and Pgx.   
 
   - Characteristics: 
