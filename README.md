@@ -29,7 +29,7 @@ check my Resume
 
 ## Projects
 
-- "Adeeb أديب",  E-Commerce for printing Arabic. Using SSR frontend with REST API and gRPC API and Protocol Buffers.<br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- "Adeeb أديب",  E-Commerce for printing Arabic. Using SSR frontend with REST API, gRPC API and Protocol Buffers.<br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
     - Adeeb’s frontned:
