@@ -29,7 +29,7 @@ check my Resume
 
 ## Projects
 
-- "Adeeb أديب",  E-Commerce for printing Arabic. Using SSR frontend with REST API, gRPC API and Protocol Buffers.<br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+- "Adeeb أديب",  E-Commerce for printing Arabic literature. Using SSR frontend with REST API, gRPC API and Protocol Buffers.<br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
 
   - Tech stack:
     - Adeeb’s frontned:
@@ -62,7 +62,7 @@ check my Resume
     - Deployed on Digital ocean server, on Ubuntu and Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
-- “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
+- “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic literature. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
 
   - Tech stack:    
     - JavaScript and TypeScript
