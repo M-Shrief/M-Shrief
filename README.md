@@ -62,6 +62,8 @@ check my Resume
     - Deployed on Digital ocean server, on Ubuntu and Nginx.
     - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 
+- Gitea, Deploying Gitea instance with Act runner for CI/CD Using Docker.<br>[Repo](https://github.com/M-Shrief/gitea)
+
 - “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic literature. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
 
   - Tech stack:    
