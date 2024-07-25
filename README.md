@@ -64,13 +64,13 @@ check my Resume
 
 - Gitea, Deploying Gitea instance with Act runner for CI/CD Using Docker.<br>[Repo](https://github.com/M-Shrief/gitea)
 
-- “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic literature. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS "gtihub repo"))
+- “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic literature. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_Hono "gtihub repo"))
 
   - Tech stack:    
     - JavaScript and TypeScript
     - HTML, SCSS and Vite
     - Vuejs with Pinia and vue-router
-    - Nodejs and Express.js
+    - Nodejs and Hono
     - MongoDB with Redis/ValKey
 
   - Characteristics:
