@@ -8,7 +8,7 @@
 - Currently, I'm learning Go.
 
 
-Check my portofolio [here](https://m-shrief.me "Portofolio"), or
+Check my portofolio [here](https://astro-portfolio-a63.pages.dev/ "Portofolio"), or
 check my Resume
 [here](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20%20Junior%20Software%20Developer%20(Backend%20-%20Frontend).pdf "check Resume"),
 
@@ -39,7 +39,7 @@ check my Resume
       - HTML, SCSS and Vite.
       - Astro
       - Vuejs
-      
+
     - Adeeb’s backend:
       - JavaScript and TypeScript
       - Nodejs and Express.js
@@ -47,9 +47,9 @@ check my Resume
 
     - Users' service:
       - Go
-      - Postgres with Sqlc and Pgx.   
+      - Postgres with Sqlc and Pgx.
 
-  - Characteristics: 
+  - Characteristics:
     - +90 marks on google’s lighthouse.
     - JWT authentication and authorization.
     - Internationalization
@@ -68,7 +68,7 @@ check my Resume
 
 - “Adeeb أديب ” (SPA version), E-Commerce for printing Arabic literature. Using SPA frontend with REST API. <br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Vue_TS "gtihub repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_Hono "gtihub repo"))
 
-  - Tech stack:    
+  - Tech stack:
     - JavaScript and TypeScript
     - HTML, SCSS and Vite
     - Vuejs with Pinia and vue-router
