@@ -1,2 +1,2 @@
-1 - Remove HTML & CSS from Skills and replace them with Python and it's framework.
-2 - Remove HTML & CSS from Projects' tech stack
+- Remove HTML & CSS from Skills and replace them with Python and it's framework.
+- Reminders: To adjust the headings/outlines in the PDF, you can edit it by clicking the setting the button on the paragraph style.
