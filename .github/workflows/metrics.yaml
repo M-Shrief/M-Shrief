@@ -24,20 +24,20 @@ jobs:
             echo "❌ Authentication failed"
             exit 1
           fi
-      - name: metrics
-        uses: lowlighter/metrics@latest
-        with:
-          # Avoid: 
-          # - Starts with GITHUB_, uses hyphen, lowercase = github-token: abc123
-          # - Contains special characters = my@secret#key: value
-          # - Structured data = CONFIG_BLOB: {"api_key": "123", "url": "https://example.com"}
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: M-Shrief
-          filename: github-metrics.languages.svg
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 6
-          # plugin_languages_indepth: yes
-          # commits_authoring: m-shrief, M-Shrief, m.shrief.dev@proton.me
-          # plugin_languages_analysis_timeout: 15
-          plugin_languages_ignored: html, css
+      # - name: metrics
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     # Avoid: 
+      #     # - Starts with GITHUB_, uses hyphen, lowercase = github-token: abc123
+      #     # - Contains special characters = my@secret#key: value
+      #     # - Structured data = CONFIG_BLOB: {"api_key": "123", "url": "https://example.com"}
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     user: M-Shrief
+      #     filename: github-metrics.languages.svg
+      #     plugin_languages: yes
+      #     plugin_languages_details: percentage
+      #     plugin_languages_limit: 6
+      #     # plugin_languages_indepth: yes
+      #     # commits_authoring: m-shrief, M-Shrief, m.shrief.dev@proton.me
+      #     # plugin_languages_analysis_timeout: 15
+      #     plugin_languages_ignored: html, css
