@@ -25,6 +25,8 @@ check my Resume
 - Astro
 - Containerization using Podman and Docker
 
+![My Metrics - Top Languages](https://github.com/M-Shrief/M-Shrief/blob/main/github-metrics.languages.svg)
+
 <div style="display:flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Shrief&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
