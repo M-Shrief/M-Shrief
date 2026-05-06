@@ -1,23 +1,29 @@
 name: Metrics
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # - cron: '0 0 * * *' # Runs daily at midnight
-    - cron: '0 0 1 * *' # the 1st of every month
+    # - cron: '0 0 1 * *' # the 1st of every month
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Avoid: 
+          # - Starts with GITHUB_, uses hyphen, lowercase = github-token: abc123
+          # - Contains special characters = my@secret#key: value
+          # - Structured data = CONFIG_BLOB: {"api_key": "123", "url": "https://example.com"}
+          token: $TOKEN
           user: M-Shrief
           filename: github-metrics.languages.svg
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 6
-          plugin_languages_indepth: yes
-          commits_authoring: m-shrief, M-Shrief, m.shrief.dev@proton.me
-          plugin_languages_analysis_timeout: 15
+          # plugin_languages_indepth: yes
+          # commits_authoring: m-shrief, M-Shrief, m.shrief.dev@proton.me
+          # plugin_languages_analysis_timeout: 15
           plugin_languages_ignored: html, css
