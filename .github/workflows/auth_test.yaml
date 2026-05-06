@@ -1,0 +1,26 @@
+name: Test Auth
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  test-auth:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read  # Minimal required permissions
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Test METRICS_TOKEN
+        run: |
+          echo "Testing authentication with GitHub API..."
+          curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer ${{ secrets.METRICS_TOKEN }}" \
+            https://api.github.com/user
+          if [ $? -eq 0 ]; then
+            echo "✅ Authentication successful"
+          else
+            echo "❌ Authentication failed"
+            exit 1
+          fi
