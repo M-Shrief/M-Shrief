@@ -14,18 +14,15 @@ check my Resume
 
 ## Current skills
 
-- JavaScript and TypeScript
-- Go with Huma and Chi.
-- Nodejs with Express.js & Hono.
-- Postgres, MongoDB and Redis/ValKey
 - Python with FastAPI
-- HTML, CSS and SCSS
+- Go with Huma and Chi.
+- Postgres, MongoDB and Redis/ValKey
+- JavaScript and TypeScript
+- Nodejs with Express.js & Hono.
 - Vuejs and its’ ecosystem (like Pinia and VueRouter)
 - Vite, Vitest and Cypress
 - Astro
 - Containerization using Podman and Docker
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Shrief&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=M-shrief&theme=dark&hide_border=true&hide_current_streak=true" alt="GitHub Streak" />
 
@@ -68,10 +65,10 @@ E-Commerce for printing Arabic literature. Using SSR frontend with REST API, gRP
 - Deployed on Digital ocean server, on Ubuntu and Nginx.
 - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 #### Other Iterations
-- Adeeb’s REST API written in Go, with Postgres, and SQLC ([repo](https://github.com/M-Shrief/Adeeb_Go))
-- Adeeb’s frontent as a SPA ([repo](https://github.com/M-Shrief/Adeeb_Vue_TS))
-- Adeeb’s REST API writing with Hono & MongoDB instead of Express.js and
-Postgres ([repo](https://github.com/M-Shrief/Adeeb_Hono))
+- Adeeb’s REST API written in Python, with FastAPI ([repo](https://github.com/M-Shrief/adeeb_fastapi))
+- Adeeb’s REST API written in Go, with Huma & Chi ([repo](https://github.com/M-Shrief/Adeeb_Go))
+- Adeeb’s Frontent as a SPA ([repo](https://github.com/M-Shrief/Adeeb_Vue_TS))
+- Adeeb’s REST API writing with Hono & MongoDB ([repo](https://github.com/M-Shrief/Adeeb_Hono))
 
 ### Forgejo
 
