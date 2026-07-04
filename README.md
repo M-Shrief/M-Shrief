@@ -79,6 +79,8 @@ with forgejo-runner for CI/CD actions, all containerized with Podman. ([repo](ht
 
 - Graduated from Faculty of Commerce, Cairo University at 2025.
 - Courses
+  - ITI’s Mahara-Tech (online):
+    - Python Programming Basics ([certificate](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/certificates/ITI_certificate_python.pdf))
   - CS50's Introduction to Programming with Python "CS50P" 2022
   - CMU, Intro to Database Systems(2022) (finished)
   - Redis university, Introduction to Redis Data Structures "RU101"
