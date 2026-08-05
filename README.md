@@ -66,7 +66,7 @@ E-Commerce for printing Arabic literature. Using SSR frontend with REST API, gRP
 - Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
 #### Other Iterations
 - Adeeb’s REST API written in Python, with FastAPI ([repo](https://github.com/M-Shrief/adeeb_fastapi))
-- Adeeb’s REST API written in Go, with Huma & Chi ([repo](https://github.com/M-Shrief/Adeeb_Go))
+- Adeeb’s REST API written in Go, with Huma & Chi ([repo](https://github.com/M-Shrief/adeeb_huma))
 - Adeeb’s Frontent as a SPA ([repo](https://github.com/M-Shrief/Adeeb_Vue_TS))
 - Adeeb’s REST API writing with Hono & MongoDB ([repo](https://github.com/M-Shrief/Adeeb_Hono))
 
