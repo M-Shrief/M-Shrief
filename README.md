@@ -1,12 +1,4 @@
-# Mohamed Shrief (Junior Software Developer)
-
-- I'm working across the Backend and the Frontend
-- I'm working mainly with JavaScript, TypeScript and Go.
-- I'm working with Nodejs and Express.js in the backend
-- I'm working with Postgres, MongoDB and Redis/ValKey.
-- I'm working with Astro and Vuejs ecosystem in the frontend.
-- Currently, I'm learning Python.
-
+# Mohamed Shrief - Junior Software Developer - Backend & DevOps
 
 Check my portofolio [here](https://astro-portfolio-a63.pages.dev/ "Portofolio"), or
 check my Resume
@@ -14,64 +6,41 @@ check my Resume
 
 ## Current skills
 
-- Python with FastAPI
-- Go with Huma and Chi.
-- Postgres, MongoDB and Redis/ValKey
+- Python and its ecosystem, like FastAPI
+- Go and its ecosystem, like Huma and Chi.
+- Postgres, MongoDB, and Redis/ValKey
 - JavaScript and TypeScript
-- Nodejs with Express.js & Hono.
-- Vuejs and its’ ecosystem (like Pinia and VueRouter)
-- Vite, Vitest and Cypress
-- Astro
+- Node.js and Deno, and their ecosystem, like Express.js & Hono.
 - Containerization using Podman and Docker
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=M-shrief&theme=dark&hide_border=true&hide_current_streak=true" alt="GitHub Streak" />
 
 ## Projects
 
-### "Adeeb أديب" 
+### Backend Projects
+#### “Adeeb أديب”
+Adeeb’s RESTful API, made in multiple iterations in different languages, while
+adopting the same standards like JWT authorization, input/output validation...etc.
+- Adeeb’s REST API written in Python, with FastAPI & Postgres. ([repo](https://github.com/M-Shrief/adeeb_fastapi))
+- Adeeb’s REST API written in Go, with Huma & Postgres. ([repo](https://github.com/M-Shrief/adeeb_huma))
+- Adeeb’s REST API written in Nodejs, with Hono & Postgres. ([repo](https://github.com/M-Shrief/adeeb_hono_pg))
 
-E-Commerce for printing Arabic literature. Using SSR frontend with REST API, gRPC API and Protocol Buffers.<br>([Frontend’s repo](https://github.com/M-Shrief/Adeeb_Astro_SSR "github repo") – [Backend’s repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres "gtihub repo"))
+#### Users’ Service
+gRPC service to handle Users' authentication & authorization. Made in Go with
+ConnectRPC and Buf. ([repo](https://github.com/M-Shrief/users_service_go))
 
-#### Tech stack
-- Adeeb’s frontned:
-  - JavaScript and TypeScript
-  - HTML, SCSS and Vite.
-  - Astro
-  - Vuejs
+### DevOps Projects
 
-- Adeeb’s backend:
-  - JavaScript and TypeScript
-  - Nodejs and Express.js
-  - Postgres and TypeORM with Redis/ValKey
+#### Deploying Adeeb’s Fullstack website
+deployed a fullstack iteration of adeeb using Docker containerization for 3 parts: SSR
+frontend written in astro, RESTful API written in Node, Uses’ service written in Go.
+Links: (Frontend’s [repo](https://github.com/M-Shrief/Adeeb_Astro_SSR) & Backend’s [repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres))
+- Duration: From September 2023 to April 2024
+- Deployed on Ubuntu with Nginx
+- Used Cloud services like Digital Ocean and CloudFlare to host services, and
+manage Domains, DNS, SSL, CDNs and on.
 
-- Users' service:
-  - Go
-  - Postgres with Sqlc and Pgx.
-
-#### Characteristics
-- +90 marks on google’s lighthouse.
-- JWT authentication and authorization.
-- Internationalization
-- Data validation.
-- Dark/Light Theme.
-- Regression and Component testing with Vitest.
-- CI using github actions for testing
-- Documentation with TSdoc and TypeDoc.
-- Sentry for monitoring errors and performance
-- Docker Containerization
-
-#### Deployment
-- Duration: From September 2023 to April 2024:
-- Deployed on Digital ocean server, on Ubuntu and Nginx.
-- Managing Domains, DNS, SSL, CDNs and on with CloudFlare.
-#### Other Iterations
-- Adeeb’s REST API written in Python, with FastAPI ([repo](https://github.com/M-Shrief/adeeb_fastapi))
-- Adeeb’s REST API written in Go, with Huma & Chi ([repo](https://github.com/M-Shrief/adeeb_huma))
-- Adeeb’s Frontent as a SPA ([repo](https://github.com/M-Shrief/Adeeb_Vue_TS))
-- Adeeb’s REST API writing with Hono & MongoDB ([repo](https://github.com/M-Shrief/Adeeb_Hono))
-
-### Forgejo
-
+#### Forgejo instance
 Setting up a Forgejo instance to self-host a Version Control System (VCS),
 with forgejo-runner for CI/CD actions, all containerized with Podman. ([repo](https://github.com/M-Shrief/forgejo))
 
