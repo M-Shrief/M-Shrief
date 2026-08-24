@@ -2,7 +2,7 @@
 
 Check my portofolio [here](https://astro-portfolio-a63.pages.dev/ "Portofolio"), or
 check my Resume
-[here](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20%20Junior%20Software%20Developer%20(Backend%20-%20Frontend).pdf "check Resume"),
+[here](<https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20Software%20Developer.pdf> "check Resume"),
 
 ## Current skills
 
@@ -18,29 +18,36 @@ check my Resume
 ## Projects
 
 ### Backend Projects
+
 #### “Adeeb أديب”
+
 Adeeb’s RESTful API, made in multiple iterations in different languages, while
 adopting the same standards like JWT authorization, input/output validation...etc.
+
 - Adeeb’s REST API written in Python, with FastAPI & Postgres. ([repo](https://github.com/M-Shrief/adeeb_fastapi))
 - Adeeb’s REST API written in Go, with Huma & Postgres. ([repo](https://github.com/M-Shrief/adeeb_huma))
 - Adeeb’s REST API written in Nodejs, with Hono & Postgres. ([repo](https://github.com/M-Shrief/adeeb_hono_pg))
+- Adeeb’s REST API written in Nodejs, with Hono & Mongo. ([repo](https://github.com/M-Shrief/adeeb_hono_mongo))
 
 #### Users’ Service
+
 gRPC service to handle Users' authentication & authorization. Made in Go with
 ConnectRPC and Buf. ([repo](https://github.com/M-Shrief/users_service_go))
 
 ### DevOps Projects
 
 #### Deploying Adeeb’s Fullstack website
+
 deployed a fullstack iteration of adeeb using Docker containerization for 3 parts: SSR
 frontend written in astro, RESTful API written in Node, Uses’ service written in Go.
 Links: (Frontend’s [repo](https://github.com/M-Shrief/Adeeb_Astro_SSR) & Backend’s [repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres))
+
 - Duration: From September 2023 to April 2024
 - Deployed on Ubuntu with Nginx
-- Used Cloud services like Digital Ocean and CloudFlare to host services, and
-manage Domains, DNS, SSL, CDNs and on.
+- Used Cloud services like Digital Ocean and CloudFlare to host services, and manage Domains, DNS, SSL, CDNs and on.
 
 #### Forgejo instance
+
 Setting up a Forgejo instance to self-host a Version Control System (VCS),
 with forgejo-runner for CI/CD actions, all containerized with Podman. ([repo](https://github.com/M-Shrief/forgejo))
 
