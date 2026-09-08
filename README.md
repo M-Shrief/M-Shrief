@@ -2,7 +2,7 @@
 
 Check my portofolio [here](https://astro-portfolio-a63.pages.dev/ "Portofolio"), or
 check my Resume
-[here](<https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20Software%20Developer.pdf> "check Resume"),
+[here](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/Mohamed%20Shrief%20-%20Software%20Developer.pdf "check Resume"),
 
 ## Current skills
 
@@ -59,6 +59,7 @@ with forgejo-runner for CI/CD actions, all containerized with Podman. ([repo](ht
     - Python Programming Basics ([certificate](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/certificates/ITI_certificate_python.pdf))
     <!-- later make it: Computer Networks, and Networks Security (certificates: [1] [2] [3]) -->
     - Computer Networks Fundamentals ([certificate](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/certificates/ITI_certificate_network_fundamentals.pdf))
+    - GIS Principles & Techniques ([certificate](https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/certificates/ITI_certificate_gis_principles_and_techniques.pdf))
   - CS50's Introduction to Programming with Python "CS50P" 2022
   - CMU, Intro to Database Systems(2022) (finished)
   - Redis university, Introduction to Redis Data Structures "RU101"
